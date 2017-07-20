@@ -1,0 +1,27 @@
+{
+	"_id":"1", "Area":"Hinjewadi,Pune","price":130,"seller":{"name":"John", "email":"john@gmail.com"}
+}
+{
+	"_id":"2", "Area":"Shivaji Nagar,Pune","price":100,"seller":{"name":"Jackson","email":"Jackson@gmail.com"}
+}
+{
+	"_id":"3", "Area":"Khadki,Pune","price":78,"seller":{"name":"Bill","email":"Bill@gmail.com"}
+}
+{
+	"_id":"4", "Area":"Vishrantvadi,Pune","price":55,"seller":{"name":"Hom","email":"Hom@gmail.com"}
+}
+{
+	"_id":"5", "Area":"Yervada,Pune","price":50,"seller":{"name":"Sundar","email":"Sundar@gmail.com"}
+}
+{
+	"_id":"6", "Area":"Pashan,Pune","price":60,"seller":{"name":"Dmitry","email":"Dmitry@gmail.com"}
+}
+{
+	"_id":"7", "Area":"Harapsar,Pune","price":40,"seller":{"name":"Frank","email":"Frank@gmail.com"}
+}
+{
+	"_id":"8", "Area":"Wagholi,Pune","price":30,"seller":{"name":"Vincent","email":"vincent@gmail.com"}
+}
+{
+	"_id":"9", "Area":"Viman Nagar,Pune","price":190,"seller":{"name":"Hasmik","email":"Hasmik@gmail.com"}
+}
